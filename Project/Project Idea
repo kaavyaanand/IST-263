@@ -1,0 +1,29 @@
+<doc type html>
+<html langng="en">
+<head>
+<title>Kaavya Anand - Project Idea</title>
+</head>
+<main>
+<h1>Project Idea</h1>
+</main>
+<body> 
+<p>My idea is to create a website on my family. I plan on including a page for my parents, brother, and dog. I also plan on including pages for my town that I grew up in and a page about me. I’ll be able to pull all my content from my own gallery since the content is primarily about my life and the people in it.</p>
+<header>
+<h1>My Family</h1>
+<dl>
+<dt>My Parents></dt>
+<dt>My Brother</dt>
+<dt>My Dog</dt>
+<dd>Black Labrador Mix</dd>
+</dl>
+<h2>Malvern, Pennsylvania</h2>
+<section>
+<h1>Malvern, Pennsylvania</h1>
+<p>Malvern, Pennsylvania is approximately 40 minutes away from Philadelphia.... more description</p>
+</section>
+<h3>About Me</h3> 
+</header>
+<footer>
+<p>Project Idea Proposal by Kaavya Anand</p>
+</footer>
+</html>
