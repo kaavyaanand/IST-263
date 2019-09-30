@@ -1,0 +1,95 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    font-family: "Arial", Arial, Helvetica, sans-serif;
+}
+
+#coffee {
+    float: left;
+}
+
+#oats {
+    float: left;
+}
+
+#milk {
+    float: left;
+}
+
+#syrup {
+    float: left;
+}
+.odd {
+    background: #f1f1f1;
+}
+
+.even {
+    background: #e1e1e1;
+}
+
+ .NFC {
+     background: #f1f1f1; 
+ }
+
+ .AFC {
+     background: #e1e1e1;
+
+ }
+
+#patriots {
+    color: #e90101;
+    background: #07163f;
+}
+
+#broncos {
+    color: navy;
+    background: orange;
+}
+
+a:hover {
+    color: orange;
+}
+
+#cowboys {
+    color: white;
+    background: navy;
+}
+
+#jets {
+    color: white;
+    background: green
+}
+
+#steelers {
+    color: black;
+    background: yellow;
+}
+
+#packers {
+    color: white;
+    background: gold;
+}
+
+#eagles {
+    color: #014A53; 
+    background: #bbc4c9;
+}
