@@ -1,0 +1,67 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+ .NFC {
+     background: #f1f1f1; 
+ }
+
+ .AFC {
+     background: #e1e1e1;
+
+ }
+
+ table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+#patriots {
+    color: #e90101;
+    background: #07163f;
+}
+
+#broncos {
+    color: navy;
+    background: orange;
+}
+
+a:hover {
+    color: orange;
+}
+
+#cowboys {
+    color: white;
+    background: navy;
+}
+
+#jets {
+    color: white;
+    background: green
+}
+
+#steelers {
+    color: white;
+    background: yellow;
+}
+
+#packers {
+    color: white;
+    background: gold;
+}
+
+#eagles {
+    color: #014A53; 
+    background: #bbc4c9;
+}
