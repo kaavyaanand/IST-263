@@ -1,0 +1,17 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+}
+
+img.responsive {
+    width: 100%;
+    height: auto;
+}
