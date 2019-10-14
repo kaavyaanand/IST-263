@@ -1,0 +1,50 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+.row {
+    display: flex;
+}
+
+
+img.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+
+.card {
+    border: 1px solid #ccc;
+  }
+
+  .col {
+    display: flex;
+  }
+  
+  .col-1 {
+    flex: 1;
+  }
+  
+  .col-2 {
+    flex: 2;
+  }
+  
+  .col-3 {
+    flex: 3;
+  }
+  
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  
