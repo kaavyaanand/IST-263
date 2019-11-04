@@ -1,0 +1,44 @@
+#title {
+    font-family: 'Josefin Slab', serif;
+    color: #20B2AA;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: white;
+    font-family: 'Josefin Slab', serif;
+    border-style: double;
+    font-size: 30px;
+    color:	#DA70D6;
+    border-color: #B0E0E6;
+
+  }
+      .flex-container > div {
+        background: white;
+        margin: 30px;
+        padding: 60px;
+        font-size: 28px;
+        font-family: 'Josefin Slab', serif;
+  }
+  
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+
+.col {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+    }
+    
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    }
+
+.h2 {
+    font-family: 'Josefin Slab', serif;
+    color: #20B2AA;
+}
