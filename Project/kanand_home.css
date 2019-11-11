@@ -37,10 +37,17 @@ header {
     font-size: 28px;
     font-family: 'Josefin Slab', serif;
 }
-#flex {
+#spread {
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
+}
+
+#across {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
 
 .column {
     flex: 1;
