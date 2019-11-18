@@ -1,0 +1,91 @@
+
+
+#title {
+    font-family: 'Josefin Slab', serif;
+    color: #20B2AA;
+    text-align: center;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: white;
+    font-family: 'Josefin Slab', serif;
+    font-size: 30px;
+    color:	#DA70D6;
+    justify-content: space-around;
+  }
+
+header {
+    border-style: double;
+    border-color: #B0E0E6;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    border-style: double;
+    border-color: #B0E0E6;
+  }
+
+.flex-container > div {
+    background: white;
+    margin: 30px;
+    padding: 60px;
+    font-size: 28px;
+    font-family: 'Josefin Slab', serif;
+}
+#flex {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.column {
+    flex: 1;
+    max-width: 25%;
+    padding: 0 4px;
+    }
+    
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    }
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    border-style: double;
+    border-color: #B0E0E6;
+    padding: 0;
+    margin: 0;
+}
+
+.pics{
+    float: left;
+
+}
+
+p {
+    font-family: 'Josefin Slab', serif; 
+    font-size: 20px;
+}
+
+h2 {
+    font-family: 'Josefin Slab', serif;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+h3 {
+    font-family: 'Josefin Slab', serif;
+    font-size: 27px;
+    text-align: center;
+    text-decoration: underline;
+}
