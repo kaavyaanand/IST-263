@@ -1,0 +1,133 @@
+* {
+    font-family: 'Lato', sans-serif;
+    background: #f0f8ff;
+    color: #2B547E;
+    font-weight: 900;
+}
+
+body {
+    background: rgb(240,248,255);
+    background: linear-gradient(90deg, rgba(240,248,255,1) 37%, rgba(191,225,224,1) 83%, rgba(184,219,215,1) 100%);
+}
+#title {
+    color: #2B547E;
+    text-align: center;
+    background: rgb(240,248,255);
+    background: linear-gradient(90deg, rgba(240,248,255,1) 37%, rgba(191,225,224,1) 83%, rgba(184,219,215,1) 100%);
+    }   
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 30px;
+    justify-content: space-around;
+    color: #2B547E;
+    background: rgb(240,248,255);
+    background: linear-gradient(90deg, rgba(240,248,255,1) 37%, rgba(191,225,224,1) 83%, rgba(184,219,215,1) 100%);
+  }
+
+header {
+    background: rgb(240,248,255);
+    background: linear-gradient(90deg, rgba(240,248,255,1) 37%, rgba(191,225,224,1) 83%, rgba(184,219,215,1) 100%);
+    }
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    background: rgb(240,248,255);
+    background: linear-gradient(90deg, rgba(240,248,255,1) 37%, rgba(191,225,224,1) 83%, rgba(184,219,215,1) 100%);
+  }
+
+.flex-container > div {
+    margin: 30px;
+    padding: 60px;
+    font-size: 28px;
+}
+#flex {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.column {
+    flex: 1;
+    max-width: 25%;
+    padding: 0 4px;
+    }
+    
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    }
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+}
+
+.pics{
+    float: left;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+h3 {
+    font-size: 27px;
+    text-align: center;
+    text-decoration: underline;
+}
+.image img {
+    width: 100%;
+}
+
+.image {
+    width: 100%;
+    display: block;
+}
+
+.caption {
+    width: 100%;
+    display: block;
+}
+
+dd {
+    font-size: 18px;
+}
+
+.title {
+    background: rgb(240,248,255);
+    background: linear-gradient(90deg, rgba(240,248,255,1) 37%, rgba(191,225,224,1) 83%, rgba(184,219,215,1) 100%);
+    text-align: center;
+}
+
+#house {
+    text-align: center;
+    display: inline-block;
+    padding: 40px;
+    float: right;
+}
+
+#spots {
+    text-align: center;
+    display: inline-block;
+    padding: 55px;
+}
+
+dt {
+    font-size: 1.1em;
+}
